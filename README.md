@@ -1,8 +1,8 @@
 # First Meeting and Marital Satisfaction
 
 Data: 
-from China Family Panel Studies (CFPS) 2014
-included a summary code book in Chinese
+from China Family Panel Studies (CFPS) 2014;
+a summary code book in Chinese included in the folder
   
 Key findings:
 1) Meeting partners through people selves led to higher marital satisfaction than through arranged meeting;
